@@ -42,7 +42,7 @@ export const ProjectList = [
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/my_portfolio",
     gif: portfolio,
-    demo: "https://raw.githubusercontent.com/osshalakhina/my_portfolio/main/public/preview.gif",
+    demo: "https://shalakhina.com/",
   },
   {
     name: "Expenses",
