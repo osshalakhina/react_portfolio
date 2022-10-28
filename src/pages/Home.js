@@ -19,7 +19,7 @@ function Home() {
     <div className="home">
       <div className="about">
         <img src={portrait} alt="логотип" className="portrait" />
-        <h2> Olga Shalakhina</h2>
+        <h2> Olga Kosov</h2>
         <div className="prompt">
           <p>Front End Developer</p>
           <a href="https://www.linkedin.com/in/osshalakhina/">
