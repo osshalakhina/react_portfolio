@@ -5,13 +5,6 @@ import Proj4 from "../assets/projects/proj4.jpg";
 import Proj5 from "../assets/projects/proj5.jpg";
 import Proj6 from "../assets/projects/proj6.jpg";
 
-// import mesto from "../assets/gifs/mesto.gif";
-// import travelling from "../assets/gifs/travelling.gif";
-// import learn from "../assets/gifs/how-to-learn.gif";
-// import expenses from "../assets/gifs/expenses.gif";
-// import order from "../assets/gifs/order.gif";
-// import portfolio from "../assets/gifs/portfolio.gif";
-
 import mesto from "../assets/gifs/mesto.gif";
 import travelling from "../assets/gifs/travelling.gif";
 import learn from "../assets/gifs/how-to-learn.gif";
