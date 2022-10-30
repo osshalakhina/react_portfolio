@@ -11,6 +11,7 @@ export const ProjectList = [
     image: Proj1,
     skills: "JavaScript, HTML, CSS, Nested by BEM, GitHub",
     link: "https://github.com/osshalakhina/mesto?",
+    myGif: "/images/mesto.gif",
     demo: "https://osshalakhina.github.io/mesto/",
   },
   {
@@ -18,6 +19,7 @@ export const ProjectList = [
     image: Proj2,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/russian-travel?",
+    myGif: "/images/travelling.gif",
     demo: "https://osshalakhina.github.io/russian-travel/?",
   },
   {
@@ -25,6 +27,7 @@ export const ProjectList = [
     image: Proj3,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/how-to-learn?",
+    myGif: "/images/how-to-learn.gif",
     demo: "https://osshalakhina.github.io/how-to-learn/",
   },
   {
@@ -32,6 +35,7 @@ export const ProjectList = [
     image: Proj4,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/my_portfolio",
+    myGif: "/images/expenses.gif",
     demo: "https://shalakhina.com/",
   },
   {
@@ -39,6 +43,7 @@ export const ProjectList = [
     image: Proj5,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/expenses-react?",
+    myGif: "/images/expenses.gif",
     demo: "https://raw.githubusercontent.com/osshalakhina/expenses-react/main/public/Project.gif",
   },
   {
@@ -46,6 +51,7 @@ export const ProjectList = [
     image: Proj6,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/challenge?",
+    myGif: "/images/portfolio.gif",
     demo: "https://raw.githubusercontent.com/osshalakhina/challenge/main/public/preview.gif",
   },
 ];

@@ -11,7 +11,7 @@ function ProjectDisplay() {
     <div className="project">
       <h1> {project.name}</h1>
       <a href={project.demo}>
-        <img className="projectImage" src={project.image} alt="project" />
+        <img src={process.env.PUBLIC_URL + project.myGif} alt="project" />
       </a>
       <p>
         <b>Skills:</b> {project.skills}
