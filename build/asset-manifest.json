@@ -1,8 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.1c7723a8.css",
-    "main.js": "./static/js/main.b00ffa0d.js",
+    "main.js": "./static/js/main.7759a4be.js",
     "static/js/787.fb771931.chunk.js": "./static/js/787.fb771931.chunk.js",
+    "static/media/travelling.gif": "./static/media/travelling.516a874ba26b23c879b1.gif",
+    "static/media/portfolio.gif": "./static/media/portfolio.19820cb2f8fb1bfa1e75.gif",
+    "static/media/how-to-learn.gif": "./static/media/how-to-learn.451c2461e80e11cb9f8d.gif",
+    "static/media/mesto.gif": "./static/media/mesto.208a5902e806de7e9e00.gif",
+    "static/media/order.gif": "./static/media/order.07280f682081154b4ca5.gif",
+    "static/media/expenses.gif": "./static/media/expenses.552947b23dab69f575c1.gif",
     "static/media/movavi.png": "./static/media/movavi.8527ff071b70a2a005c8.png",
     "static/media/proj6.jpg": "./static/media/proj6.befc95d5eb3a632d18e1.jpg",
     "static/media/proj1.jpg": "./static/media/proj1.6f87d4bae12899ebb99e.jpg",
@@ -25,11 +31,11 @@
     "static/media/computer.svg": "./static/media/computer.80bb9ab814cd2a8b49c70f64fc470d25.svg",
     "index.html": "./index.html",
     "main.1c7723a8.css.map": "./static/css/main.1c7723a8.css.map",
-    "main.b00ffa0d.js.map": "./static/js/main.b00ffa0d.js.map",
+    "main.7759a4be.js.map": "./static/js/main.7759a4be.js.map",
     "787.fb771931.chunk.js.map": "./static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c7723a8.css",
-    "static/js/main.b00ffa0d.js"
+    "static/js/main.7759a4be.js"
   ]
 }

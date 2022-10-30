@@ -5,13 +5,20 @@ import Proj4 from "../assets/projects/proj4.jpg";
 import Proj5 from "../assets/projects/proj5.jpg";
 import Proj6 from "../assets/projects/proj6.jpg";
 
+let mesto = require("../assets/images/mesto.gif");
+let travelling = require("../assets/images/travelling.gif");
+let learn = require("../assets/images/how-to-learn.gif");
+let portfolio = require("../assets/images/portfolio.gif");
+let expenses = require("../assets/images/expenses.gif");
+let order = require("../assets/images/order.gif");
+
 export const ProjectList = [
   {
     name: "Mesto",
     image: Proj1,
     skills: "JavaScript, HTML, CSS, Nested by BEM, GitHub",
     link: "https://github.com/osshalakhina/mesto?",
-    myGif: "/images/mesto.gif",
+    myGif: mesto,
     demo: "https://osshalakhina.github.io/mesto/",
   },
   {
@@ -19,7 +26,7 @@ export const ProjectList = [
     image: Proj2,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/russian-travel?",
-    myGif: "/images/travelling.gif",
+    myGif: travelling,
     demo: "https://osshalakhina.github.io/russian-travel/?",
   },
   {
@@ -27,7 +34,7 @@ export const ProjectList = [
     image: Proj3,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/how-to-learn?",
-    myGif: "/images/how-to-learn.gif",
+    myGif: learn,
     demo: "https://osshalakhina.github.io/how-to-learn/",
   },
   {
@@ -35,7 +42,7 @@ export const ProjectList = [
     image: Proj4,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/my_portfolio",
-    myGif: "/images/expenses.gif",
+    myGif: portfolio,
     demo: "https://shalakhina.com/",
   },
   {
@@ -43,7 +50,7 @@ export const ProjectList = [
     image: Proj5,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/expenses-react?",
-    myGif: "/images/expenses.gif",
+    myGif: expenses,
     demo: "https://raw.githubusercontent.com/osshalakhina/expenses-react/main/public/Project.gif",
   },
   {
@@ -51,7 +58,7 @@ export const ProjectList = [
     image: Proj6,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/challenge?",
-    myGif: "/images/portfolio.gif",
+    myGif: order,
     demo: "https://raw.githubusercontent.com/osshalakhina/challenge/main/public/preview.gif",
   },
 ];
