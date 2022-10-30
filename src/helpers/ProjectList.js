@@ -1,15 +1,16 @@
-import Proj1 from "../assets/proj1.jpg";
-import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.jpg";
-import Proj4 from "../assets/proj4.jpg";
-import Proj5 from "../assets/proj5.jpg";
-import Proj6 from "../assets/proj6.jpg";
-import mesto from "../assets/mesto.gif";
-import travelling from "../assets/travelling.gif";
-import learn from "../assets/how-to-learn.gif";
-import expenses from "../assets/expenses.gif";
-import order from "../assets/order.gif";
-import portfolio from "../assets/portfolio.gif";
+import Proj1 from "../assets/projects/proj1.jpg";
+import Proj2 from "../assets/projects/proj2.jpg";
+import Proj3 from "../assets/projects/proj3.jpg";
+import Proj4 from "../assets/projects/proj4.jpg";
+import Proj5 from "../assets/projects/proj5.jpg";
+import Proj6 from "../assets/projects/proj6.jpg";
+
+let mesto = require("../assets/gifs/mesto.gif");
+let travelling = require("../assets/gifs/travelling.gif");
+let learn = require("../assets/gifs/how-to-learn.gif");
+let expenses = require("../assets/gifs/expenses.gif");
+let order = require("../assets/gifs/order.gif");
+let portfolio = require("../assets/gifs/portfolio.gif");
 
 export const ProjectList = [
   {
@@ -17,7 +18,7 @@ export const ProjectList = [
     image: Proj1,
     skills: "JavaScript, HTML, CSS, Nested by BEM, GitHub",
     link: "https://github.com/osshalakhina/mesto?",
-    gif: mesto,
+    myGif: mesto,
     demo: "https://osshalakhina.github.io/mesto/",
   },
   {
@@ -25,7 +26,7 @@ export const ProjectList = [
     image: Proj2,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/russian-travel?",
-    gif: travelling,
+    myGif: travelling,
     demo: "https://osshalakhina.github.io/russian-travel/?",
   },
   {
@@ -33,7 +34,7 @@ export const ProjectList = [
     image: Proj3,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/how-to-learn?",
-    gif: learn,
+    myGif: learn,
     demo: "https://osshalakhina.github.io/how-to-learn/",
   },
   {
@@ -41,7 +42,7 @@ export const ProjectList = [
     image: Proj4,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/my_portfolio",
-    gif: portfolio,
+    myGif: portfolio,
     demo: "https://shalakhina.com/",
   },
   {
@@ -49,7 +50,7 @@ export const ProjectList = [
     image: Proj5,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/expenses-react?",
-    gif: expenses,
+    myGif: expenses,
     demo: "https://raw.githubusercontent.com/osshalakhina/expenses-react/main/public/Project.gif",
   },
   {
@@ -57,7 +58,7 @@ export const ProjectList = [
     image: Proj6,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/challenge?",
-    gif: order,
+    myGif: order,
     demo: "https://raw.githubusercontent.com/osshalakhina/challenge/main/public/preview.gif",
   },
 ];
