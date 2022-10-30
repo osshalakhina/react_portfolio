@@ -11,7 +11,7 @@ function ProjectDisplay() {
     <div className="project">
       <h1> {project.name}</h1>
       <a href={project.demo}>
-        <img src={require(project.myGif)} alt="project" />
+        <img className="projectImage" src={project.image} alt="project" />
       </a>
       <p>
         <b>Skills:</b> {project.skills}

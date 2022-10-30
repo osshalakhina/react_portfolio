@@ -5,20 +5,12 @@ import Proj4 from "../assets/projects/proj4.jpg";
 import Proj5 from "../assets/projects/proj5.jpg";
 import Proj6 from "../assets/projects/proj6.jpg";
 
-import mesto from "../assets/gifs/mesto.gif";
-import travelling from "../assets/gifs/travelling.gif";
-import learn from "../assets/gifs/how-to-learn.gif";
-import expenses from "../assets/gifs/expenses.gif";
-import order from "../assets/gifs/order.gif";
-import portfolio from "../assets/gifs/portfolio.gif";
-
 export const ProjectList = [
   {
     name: "Mesto",
     image: Proj1,
     skills: "JavaScript, HTML, CSS, Nested by BEM, GitHub",
     link: "https://github.com/osshalakhina/mesto?",
-    myGif: mesto,
     demo: "https://osshalakhina.github.io/mesto/",
   },
   {
@@ -26,7 +18,6 @@ export const ProjectList = [
     image: Proj2,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/russian-travel?",
-    myGif: travelling,
     demo: "https://osshalakhina.github.io/russian-travel/?",
   },
   {
@@ -34,7 +25,6 @@ export const ProjectList = [
     image: Proj3,
     skills: "HTML, CSS, Nested file structure by BEM, GitHub",
     link: "https://github.com/osshalakhina/how-to-learn?",
-    myGif: learn,
     demo: "https://osshalakhina.github.io/how-to-learn/",
   },
   {
@@ -42,7 +32,6 @@ export const ProjectList = [
     image: Proj4,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/my_portfolio",
-    myGif: portfolio,
     demo: "https://shalakhina.com/",
   },
   {
@@ -50,7 +39,6 @@ export const ProjectList = [
     image: Proj5,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/expenses-react?",
-    myGif: expenses,
     demo: "https://raw.githubusercontent.com/osshalakhina/expenses-react/main/public/Project.gif",
   },
   {
@@ -58,7 +46,6 @@ export const ProjectList = [
     image: Proj6,
     skills: "React, JavaScript, HTML, CSS, GitHub",
     link: "https://github.com/osshalakhina/challenge?",
-    myGif: order,
     demo: "https://raw.githubusercontent.com/osshalakhina/challenge/main/public/preview.gif",
   },
 ];
