@@ -5,12 +5,12 @@ import Proj4 from "../assets/projects/proj4.jpg";
 import Proj5 from "../assets/projects/proj5.jpg";
 import Proj6 from "../assets/projects/proj6.jpg";
 
-let mesto = require("../assets/gifs/mesto.gif");
-let travelling = require("../assets/gifs/travelling.gif");
-let learn = require("../assets/gifs/how-to-learn.gif");
-let expenses = require("../assets/gifs/expenses.gif");
-let order = require("../assets/gifs/order.gif");
-let portfolio = require("../assets/gifs/portfolio.gif");
+import mesto from "../assets/gifs/mesto.gif";
+import travelling from "../assets/gifs/travelling.gif";
+import learn from "../assets/gifs/how-to-learn.gif";
+import expenses from "../assets/gifs/expenses.gif";
+import order from "../assets/gifs/order.gif";
+import portfolio from "../assets/gifs/portfolio.gif";
 
 export const ProjectList = [
   {
