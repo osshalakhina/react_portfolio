@@ -15,6 +15,23 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2022"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Freelance (FeatureHub.Ai)
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Junior Front End Developer
+          </h4>
+          <p>
+            Responsible for developing a part of company web site using the
+            following tools React, SASS, Java Script.
+          </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2022"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >

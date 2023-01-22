@@ -6,6 +6,7 @@ import bootstrap from "../assets/frontend/bootstrap.png";
 import tailwind from "../assets/frontend/tailwind.png";
 import github from "../assets/frontend/github.png";
 import nodejs from "../assets/frontend/nodejs.png";
+import sass from "../assets/frontend/sass.png";
 
 export const FrontendList = [
   {
@@ -17,6 +18,10 @@ export const FrontendList = [
     image: css,
   },
   {
+    name: "SASS",
+    image: sass,
+  },
+  {
     name: "JavaScript",
     image: javascript,
   },
@@ -24,10 +29,10 @@ export const FrontendList = [
     name: "React",
     image: react,
   },
-  {
-    name: "Node.js",
-    image: nodejs,
-  },
+  // {
+  //   name: "Node.js",
+  //   image: nodejs,
+  // },
   {
     name: "Bootstrap",
     image: bootstrap,

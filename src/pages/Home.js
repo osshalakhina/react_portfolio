@@ -21,7 +21,7 @@ function Home() {
         <img src={portrait} alt="логотип" className="portrait" />
         <h2> Olga Kosov</h2>
         <div className="prompt">
-          <p>Front End Developer</p>
+          <p>Junior Front End Developer</p>
           <a href="https://www.linkedin.com/in/osshalakhina/">
             <LinkedInIcon />
           </a>

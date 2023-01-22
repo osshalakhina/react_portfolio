@@ -2,15 +2,19 @@ import Proj1 from "../assets/projects/proj1.jpg";
 import Proj2 from "../assets/projects/proj2.jpg";
 import Proj3 from "../assets/projects/proj3.jpg";
 import Proj4 from "../assets/projects/proj4.jpg";
-import Proj5 from "../assets/projects/proj5.jpg";
-import Proj6 from "../assets/projects/proj6.jpg";
+import Proj7 from "../assets/projects/proj7.jpg";
+import Proj8 from "../assets/projects/proj8.jpg";
+// import Proj5 from "../assets/projects/proj5.jpg";
+// import Proj6 from "../assets/projects/proj6.jpg";
 
 let mesto = require("../assets/images/mesto.gif");
 let travelling = require("../assets/images/travelling.gif");
 let learn = require("../assets/images/how-to-learn.gif");
 let portfolio = require("../assets/images/portfolio.gif");
-let expenses = require("../assets/images/expenses.gif");
-let order = require("../assets/images/order.gif");
+let react_portfolio = require("../assets/images/react_portfolio.gif");
+let featureHub = require("../assets/images/featureHub.gif");
+// let expenses = require("../assets/images/expenses.gif");
+// let order = require("../assets/images/order.gif");
 
 export const ProjectList = [
   {
@@ -46,19 +50,35 @@ export const ProjectList = [
     demo: "https://shalakhina.com/",
   },
   {
-    name: "Expenses",
-    image: Proj5,
+    name: "Portfolio",
+    image: Proj7,
     skills: "React, JavaScript, HTML, CSS, GitHub",
-    link: "https://github.com/osshalakhina/expenses-react?",
-    myGif: expenses,
-    demo: "https://raw.githubusercontent.com/osshalakhina/expenses-react/main/public/Project.gif",
+    link: "https://github.com/osshalakhina/react_portfolio",
+    myGif: react_portfolio,
+    demo: "https://kosov.site/projects",
   },
   {
-    name: "Order",
-    image: Proj6,
-    skills: "React, JavaScript, HTML, CSS, GitHub",
-    link: "https://github.com/osshalakhina/challenge?",
-    myGif: order,
-    demo: "https://raw.githubusercontent.com/osshalakhina/challenge/main/public/preview.gif",
+    name: "FeatureHub.Ai",
+    image: Proj8,
+    skills: "React, JavaScript, SASS",
+    link: "https://beta.featurehub.ai/",
+    myGif: featureHub,
+    demo: "https://beta.featurehub.ai/",
   },
+  // {
+  //   name: "Expenses",
+  //   image: Proj5,
+  //   skills: "React, JavaScript, HTML, CSS, GitHub",
+  //   link: "https://github.com/osshalakhina/expenses-react?",
+  //   myGif: expenses,
+  //   demo: "https://raw.githubusercontent.com/osshalakhina/expenses-react/main/public/Project.gif",
+  // },
+  // {
+  //   name: "Order",
+  //   image: Proj6,
+  //   skills: "React, JavaScript, HTML, CSS, GitHub",
+  //   link: "https://github.com/osshalakhina/challenge?",
+  //   myGif: order,
+  //   demo: "https://raw.githubusercontent.com/osshalakhina/challenge/main/public/preview.gif",
+  // },
 ];
