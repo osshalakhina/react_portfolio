@@ -1,8 +1,8 @@
 import React from "react";
-import {useHistory} from "react-router-dom";
+import { useHistory } from "react-router-dom";
 
-function ProjectItem({image, name, id}) {
-  const {push} = useHistory();
+function ProjectItem({ image, name, description, id }) {
+  const { push } = useHistory();
   return (
     <div
       className="projectItem"
@@ -10,8 +10,9 @@ function ProjectItem({image, name, id}) {
         push("/project/" + id);
       }}
     >
-      <div style={{backgroundImage: `url(${image})`}} className="bgImage"/>
+      <div style={{ backgroundImage: `url(${image})` }} className="bgImage" />
       <h1> {name} </h1>
+      <h2> {description} </h2>
     </div>
   );
 }

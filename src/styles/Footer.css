@@ -22,6 +22,8 @@
 
 .footer p {
   color: white;
+  font-size: 15px;
+  margin: 0;
 }
 
 @media only screen and (max-width: 600px) {

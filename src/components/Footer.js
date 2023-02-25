@@ -18,7 +18,7 @@ function Footer() {
           <GithubIcon />
         </a>
       </div>
-      <p> &copy; Olga Kosov, 2022</p>
+      <p> &copy; Olga Kosov, 2023</p>
     </div>
   );
 }

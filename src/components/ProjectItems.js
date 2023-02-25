@@ -5,6 +5,7 @@ function ProjectItems({ image, name }) {
     <div className="projectItems">
       <div style={{ backgroundImage: `url(${image})` }} className="smImage" />
       <h2> {name} </h2>
+      <h2> {description} </h2>
     </div>
   );
 }

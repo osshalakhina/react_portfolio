@@ -15,6 +15,7 @@ function Projects() {
               key={idx}
               id={idx}
               name={project.name}
+              description={project.description}
               image={project.image}
             />
           );
