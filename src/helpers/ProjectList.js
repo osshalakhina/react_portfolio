@@ -19,7 +19,7 @@ export const ProjectList = [
     image: Proj8,
     tehnology: "React.js, HTML5, SASS",
     about:
-      "FeatureHub.Ai is a service that will make AI/ML projects more efficient and effective. While we are still hard at work on the platform, we are eager to share updates with you as we develop. Leave your email to stay informed on the latest developments and be one of the first to experience the power of FeatureHub.AI.",
+      "FeatureHub.Ai is a service that will make AI/ML projects more efficient and effective. Project in progress on the platform, so, if you are interested, please, leave your email to stay informed on the latest developments and be one of the first to experience the power of FeatureHub.AI.",
     link: "https://beta.featurehub.ai/",
     myGif: featureHub,
     demo: "https://beta.featurehub.ai/",
