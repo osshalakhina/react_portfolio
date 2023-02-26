@@ -25,7 +25,7 @@ export const ProjectList = [
     demo: "https://beta.featurehub.ai/",
   },
   {
-    name: "Portfolio",
+    name: "Portfolio (last version)",
     description: "[ React.js, HTML5, SASS ]",
     image: Proj7,
     tehnology: "React.js, HTML5, SASS",
