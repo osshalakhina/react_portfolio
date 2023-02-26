@@ -14,10 +14,46 @@ let featureHub = require("../assets/images/featureHub.gif");
 
 export const ProjectList = [
   {
+    name: "FeatureHub.Ai",
+    description: "[ React.js, HTML5, SASS ]",
+    image: Proj8,
+    tehnology: "React.js, HTML5, SASS",
+    about:
+      "FeatureHub.Ai is a service that will make AI/ML projects more efficient and effective. While we are still hard at work on the platform, we are eager to share updates with you as we develop. Leave your email to stay informed on the latest developments and be one of the first to experience the power of FeatureHub.AI.",
+    link: "https://beta.featurehub.ai/",
+    myGif: featureHub,
+    demo: "https://beta.featurehub.ai/",
+  },
+  {
+    name: "Portfolio",
+    description: "[ React.js, HTML5, SASS ]",
+    image: Proj7,
+    tehnology: "React.js, HTML5, SASS",
+    about:
+      "Compilation of works that exemplifies my skills, qualifications, education, training, and experiences. All what provides insight into my personality and work ethic.    ",
+    link: "https://github.com/osshalakhina/react_portfolio",
+    myGif: react_portfolio,
+    demo: "https://kosov.site/projects",
+  },
+
+  {
+    name: "Portfolio (first version)",
+    description: "[ React.js, HTML5, Tailwind CSS ]",
+    image: Proj4,
+    tehnology: "React.js, HTML5, Tailwind CSS",
+    about:
+      "Old version of portfolio (first version, with surname which I had before I married). Compilation of works that exemplifies my skills, qualifications, education, training, and experiences. All what provides insight into my personality and work ethic.",
+    link: "https://github.com/osshalakhina/my_portfolio",
+    myGif: portfolio,
+    demo: "https://shalakhina.com/",
+  },
+
+  {
     name: "Mesto",
-    description: "[ HTML5, CSS3, JavaScript ]",
+    description: "[ JavaScript, HTML5, CSS3 ]",
     image: Proj1,
-    tehnology: "HTML, CSS, JavaScript, Nested by BEM",
+    tehnology:
+      "JavaScript, HTML5, CSS3 (Flexbox, Grid, media queries), Nested file structure by BEM",
     about:
       "Mesto service: an interactive page where you can exchange photos and put likes, change data.",
     link: "https://github.com/osshalakhina/mesto?",
@@ -28,8 +64,10 @@ export const ProjectList = [
     name: "Traveling",
     description: "[ HTML5, CSS3 ]",
     image: Proj2,
-    tehnology: "HTML, CSS, Nested file structure by BEM",
-    about: "",
+    tehnology:
+      "HTML5, CSS3 (FlexBox, Grid, Media queries), Nested file structure by BEM",
+    about:
+      "Adaptive and responsive website. Versions available for 4 different resolutions: 1280 pixels and above, from 1024px to 1280px, from 768px to 1024px, up to 768px.",
     link: "https://github.com/osshalakhina/russian-travel?",
     myGif: travelling,
     demo: "https://osshalakhina.github.io/russian-travel/?",
@@ -38,40 +76,10 @@ export const ProjectList = [
     name: "How To Learn",
     description: "[ HTML5, CSS3 ]",
     image: Proj3,
-    tehnology: "HTML, CSS, Nested file structure by BEM",
-    about: "",
+    tehnology: "HTML5, CSS3, Nested file structure by BEM",
+    about: "Landing page, a simple layout.",
     link: "https://github.com/osshalakhina/how-to-learn?",
     myGif: learn,
     demo: "https://osshalakhina.github.io/how-to-learn/",
-  },
-  {
-    name: "Portfolio",
-    description: "[ HTML5, Tailwind CSS, JavaScript, React.js ]",
-    image: Proj4,
-    tehnology: "HTML, CSS, React, JavaScript",
-    about: "",
-    link: "https://github.com/osshalakhina/my_portfolio",
-    myGif: portfolio,
-    demo: "https://shalakhina.com/",
-  },
-  {
-    name: "Portfolio",
-    description: "[ HTML5, CSS3, JavaScript, React.js ]",
-    image: Proj7,
-    tehnology: "HTML, CSS, React, JavaScript",
-    about: "",
-    link: "https://github.com/osshalakhina/react_portfolio",
-    myGif: react_portfolio,
-    demo: "https://kosov.site/projects",
-  },
-  {
-    name: "FeatureHub.Ai",
-    description: "[ HTML5, CSS3, JavaScript, React.js ]",
-    image: Proj8,
-    tehnology: "SASS, React, JavaScript",
-    about: "",
-    link: "https://beta.featurehub.ai/",
-    myGif: featureHub,
-    demo: "https://beta.featurehub.ai/",
   },
 ];
