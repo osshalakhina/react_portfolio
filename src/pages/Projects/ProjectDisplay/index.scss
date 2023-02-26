@@ -4,11 +4,13 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 
   h1 {
     color: #3e497a;
     font-size: 35px;
+    margin-top: 35px;
+    margin-bottom: 35px;
   }
 
   img {
@@ -26,7 +28,7 @@
   svg {
     font-size: 60px;
     color: #3e497a;
-    margin-top: 30px;
+    margin-top: 40px;
   }
 
   svg:hover {
