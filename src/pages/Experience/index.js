@@ -242,7 +242,7 @@ function Experience() {
 
           <h4 className="vertical-timeline-element-subtitle">Student</h4>
 
-          <p> Teacher of fine and Applied Arts.</p>
+          <p> Teacher of Fine and Applied Arts.</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
