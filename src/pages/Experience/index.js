@@ -14,7 +14,7 @@ function Experience() {
       <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2022"
+          date="2022-2023"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -26,7 +26,7 @@ function Experience() {
           </h4>
           <p>
             Responsible for developing a part of company web site using the
-            following tools React, SASS, Java Script.
+            following tools: React, SASS, Java Script.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -77,7 +77,7 @@ function Experience() {
 
           <h4 className="vertical-timeline-element-subtitle">Student</h4>
 
-          <p> Web Developing course designed on 10 months</p>
+          <p> Web Developing course (10 months).</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -92,7 +92,7 @@ function Experience() {
 
           <h4 className="vertical-timeline-element-subtitle">Student</h4>
 
-          <p> Hebrew course designed on 6 months (passed on B level).</p>
+          <p> Hebrew course (6 months, passed on B level).</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -124,7 +124,7 @@ function Experience() {
 
           <h4 className="vertical-timeline-element-subtitle">Student</h4>
 
-          <p> Web Programming course designed on a year.</p>
+          <p> Web Programming course (12 months).</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -212,11 +212,7 @@ function Experience() {
 
           <h4 className="vertical-timeline-element-subtitle">Student</h4>
 
-          <p>
-            {" "}
-            Bachelors in Interior and Exterior design, completed the degree in
-            one semester which designed for 3 years
-          </p>
+          <p> Bachelors of Interior and Exterior design.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -231,11 +227,7 @@ function Experience() {
 
           <h4 className="vertical-timeline-element-subtitle">Student</h4>
 
-          <p>
-            {" "}
-            Bachelors in International Economics, Faculty of International
-            Economics.
-          </p>
+          <p> Bachelors of International Economics.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -250,7 +242,7 @@ function Experience() {
 
           <h4 className="vertical-timeline-element-subtitle">Student</h4>
 
-          <p> Fine and Applied Arts.</p>
+          <p> Teacher of fine and Applied Arts.</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>

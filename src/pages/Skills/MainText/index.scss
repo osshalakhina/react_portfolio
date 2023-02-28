@@ -31,7 +31,7 @@
 
 .content {
   position: absolute;
-  top: 240px;
+  top: 255px;
   left: 650px;
   transform: translate(-50%, -50%);
   height: 160px;
@@ -228,6 +228,7 @@
   .content {
     left: 335px;
     font-size: 30px;
+    top: 245px;
   }
 
   .about {
@@ -244,7 +245,7 @@
 @media only screen and (max-width: 1300px) {
   .content {
     position: absolute;
-    top: 200px;
+    top: 205px;
     left: 204px;
     transform: translate(-50%, -50%);
     height: 160px;
@@ -365,7 +366,7 @@
 
 @media only screen and (max-width: 645px) {
   .content {
-    top: 180px;
+    top: 187px;
     display: flex;
     justify-content: center;
     left: 145px;
@@ -374,7 +375,7 @@
     &__container {
       font-weight: 600;
       overflow: hidden;
-      height: 30px;
+      height: 25px;
       padding: 0px;
 
       &__text {
@@ -471,7 +472,7 @@
   }
 
   .content {
-    top: 250px;
+    top: 248px;
     left: 103px;
     right: 0px;
     font-size: 17px;
