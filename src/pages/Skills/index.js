@@ -14,9 +14,9 @@ function Skills() {
       <div className="Block">
         <div className="skills">Skills</div>
         <ul className="skillsBlock">
-          <li>JavaScript (ES5, ES6), React.js,</li>
+          <li>JavaScript, React.js,</li>
           <li>
-            HTML5, CSS3 (CSS Grid, Flexbox, BEM, Nested), CSS frameworks
+            HTML5, CSS3 (Grid, Flexbox, Nested by BEM), CSS frameworks
             (Bootstrap, Tailwind CSS), CSS preprocessors (SASS),
           </li>
           <li>UI/UX (Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma).</li>
