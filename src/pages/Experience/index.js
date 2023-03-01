@@ -26,7 +26,7 @@ function Experience() {
           </h4>
           <p>
             Responsible for developing a part of company web site using the
-            following tools: React, SASS, Java Script.
+            following tools: React, Java Script, HTML5, SASS.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -109,7 +109,7 @@ function Experience() {
 
           <p>
             {" "}
-            Worked with Elementor (used HTML and CSS), made web and graphic
+            Worked with Elementor (used HTML5 and CSS3), made web and graphic
             design.
           </p>
         </VerticalTimelineElement>

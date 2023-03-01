@@ -15,9 +15,9 @@ let featureHub = require("../assets/images/featureHub.gif");
 export const ProjectList = [
   {
     name: "FeatureHub.Ai",
-    description: "[ React.js, HTML5, SASS ]",
+    description: "[ React.js, JavaScript, HTML5, SASS ]",
     image: Proj8,
-    tehnology: "React.js, HTML5, SASS",
+    tehnology: "React.js, JavaScript, HTML5, SASS",
     about:
       "FeatureHub.Ai is a service that will make AI/ML projects more efficient and effective. Project in progress on the platform, so, if you are interested, please, leave your email to stay informed on the latest developments and be one of the first to experience the power of FeatureHub.AI.",
     link: "https://beta.featurehub.ai/",
