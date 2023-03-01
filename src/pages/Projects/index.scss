@@ -7,6 +7,7 @@
   flex-direction: column;
   margin-bottom: 50px;
   margin-top: 20px;
+  overflow: hidden;
 
   h1 {
     color: #3e497a;
@@ -96,7 +97,17 @@
   }
 
   .projectItem {
-    width: 95%;
-    height: 300px;
+    width: 88%;
+    height: 270px;
+
+    .bgImage {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      width: 100%;
+      height: 170px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
   }
 }
