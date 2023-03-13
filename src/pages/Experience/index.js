@@ -19,14 +19,25 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Freelance (FeatureHub.Ai)
+            Junior Front End Developer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Junior Front End Developer
+            Freelance (FeatureHub.Ai)
           </h4>
           <p>
-            Responsible for developing a part of company web site using the
-            following tools: React, Java Script, HTML5, SASS.
+            <ul>
+              <li>
+                Developed responsive landing page using React, Java Script,
+                HTML5, SASS{" "}
+              </li>
+              <li>
+                Analyzed UI/UX design for responsive layout to improve usability{" "}
+              </li>
+              <li>
+                Worked with a team of developer and web designer to resolve
+                Front End issues
+              </li>
+            </ul>
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -35,16 +46,29 @@ function Experience() {
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Udemy</h3>
+          <h3 className="vertical-timeline-element-title">Student</h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Student</h4>
+          <h4 className="vertical-timeline-element-subtitle">Udemy</h4>
 
           <p>
             {" "}
-            JavaScript course by Bogdan Stashchuk (Software Engineer, MBA, PhD,
-            CCIE), React cource by Youra Allakhverdov (Mobile & Web Developer),
-            Creative Advanced CSS Animations by Ahmed Sadek (full stack web
-            developer, freelancer & teacher).
+            <ul>
+              <li>
+                "React" cource by Youra Allakhverdov (Mobile & Web Developer)
+              </li>
+              <li>
+                "Creative Advanced CSS Animations" by Ahmed Sadek (full stack
+                web developer, freelancer & teacher)
+              </li>
+              <li>
+                "JavaScript" course by Bogdan Stashchuk (Software Engineer, MBA,
+                PhD, CCIE)
+              </li>
+              <li>
+                "The Complete JavaScript Course: From Zero to Expert!"" by Jonas
+                Schmedtmann (Web Developer, Designer, and Teacher)
+              </li>
+            </ul>
           </p>
         </VerticalTimelineElement>
 
@@ -55,15 +79,16 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Muso Grazioso kennel
+            Co-owner and co-founder
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Co-owner and co-founder
+            Muso Grazioso kennel
           </h4>
           <p>
-            Made international sales and communicated with dog owners, logistics
-            and organization of puppy delivery to another countries, photo and
-            video processing, created site, brand elements etc.
+            Responsible for international sales and collaboration with
+            customers, logistics and organization of delivery to various
+            countries, photo and video processing, developed site (used
+            Elementor, HTML5 and CSS3), brand elements etc.
           </p>
         </VerticalTimelineElement>
 
@@ -73,9 +98,11 @@ function Experience() {
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Yandex Practicum</h3>
+          <h3 className="vertical-timeline-element-title">Student</h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Student</h4>
+          <h4 className="vertical-timeline-element-subtitle">
+            Yandex Practicum
+          </h4>
 
           <p> Web Developing course (10 months).</p>
         </VerticalTimelineElement>
@@ -86,13 +113,13 @@ function Experience() {
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">
+          <h3 className="vertical-timeline-element-title">Student</h3>
+
+          <h4 className="vertical-timeline-element-subtitle">
             Hebrew language school "Ulpan Gordon"
-          </h3>
+          </h4>
 
-          <h4 className="vertical-timeline-element-subtitle">Student</h4>
-
-          <p> Hebrew course (6 months, passed on B level).</p>
+          <p> Hebrew course (6 months, passed on B level)</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -101,16 +128,24 @@ function Experience() {
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Shakuf media</h3>
-
-          <h4 className="vertical-timeline-element-subtitle">
+          <h3 className="vertical-timeline-element-title">
             Web Programming intern
-          </h4>
+          </h3>
+
+          <h4 className="vertical-timeline-element-subtitle">Shakuf media</h4>
 
           <p>
             {" "}
-            Worked with Elementor (used HTML5 and CSS3), made web and graphic
-            design.
+            <ul>
+              <li>
+                Designed and developed websites for company’s customers using
+                Elementor, HTML5 and CSS3
+              </li>
+              <li>
+                Created designs, concepts, and sample layouts, based on
+                knowledge of layout and esthetic design concepts
+              </li>
+            </ul>
           </p>
         </VerticalTimelineElement>
 
@@ -120,11 +155,11 @@ function Experience() {
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">MASA-Tlalim</h3>
+          <h3 className="vertical-timeline-element-title">Student</h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Student</h4>
+          <h4 className="vertical-timeline-element-subtitle">MASA-Tlalim</h4>
 
-          <p> Web Programming course (12 months).</p>
+          <p> Web Programming course (12 months)</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -133,13 +168,29 @@ function Experience() {
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Freelance</h3>
+          <h3 className="vertical-timeline-element-title">Designer</h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Designer (Pro Max Group, Inhacking, Datawiz.io and etc.)
+            Freelance (Datawiz.io, Pro Max Group, Inhacking, :Printl, School
+            Angels, Indigo and etc..)
           </h4>
           <p>
-            Made web, graphic, package, advertising and presentation design,
-            created illustrations.
+            <ul>
+              <li>Prepared illustrations and rough sketches of material</li>
+              <li>
+                Developed graphics and layouts for product illustrations, logos,
+                presentation design and websites mirroring company brand style
+              </li>
+              <li>
+                Conceptualized logo design, gif animations, websites, and social
+                media channels to promote product brands
+              </li>
+              <li>
+                Developed creative advertising content for various media,
+                including business cards, flyers, posters, t-shorts, and product
+                packaging while ensuring maximum brand awareness of target
+                audience/market
+              </li>
+            </ul>
           </p>
         </VerticalTimelineElement>
 
@@ -149,13 +200,13 @@ function Experience() {
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
-          <h3 className="vertical-timeline-element-title">
+          <h3 className="vertical-timeline-element-title">Illustrator</h3>
+          <h4 className="vertical-timeline-element-subtitle">
             Manning Publications Co.
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">Illustrator</h4>
+          </h4>
           <p>
-            Created illustrations with Go-Gopher for «Get Programming with Go»
-            by Nathan Youngman, Roger Pepper.
+            Created illustrations with Go-Gopher for book «Get Programming with
+            Go» by Nathan Youngman, Roger Pepper
           </p>
         </VerticalTimelineElement>
 
@@ -165,38 +216,39 @@ function Experience() {
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Kartoon Art, Inc</h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Co-owner and co-founder
-          </h4>
-          <p>
-            Our start-up developed web and mobile app prototypes. Took part in
-            GTF and got to the top 10 finalists, took part in Venture Summit
-            2013 in Kyiv. I made web and graphic design, illustrations, worked
-            with social network, presented our project on conferences.
-          </p>
-        </VerticalTimelineElement>
-
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2013"
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          icon={<SchoolIcon />}
-        >
           <h3 className="vertical-timeline-element-title">
-            Happy Farm Business Accelerator Alumni, Cycle 2
+            Co-owner and co-founder
           </h3>
-
           <h4 className="vertical-timeline-element-subtitle">
-            Co-owner and co-founder of KartoonArt start-up
+            Kartoon Art, Inc
           </h4>
-
           <p>
-            {" "}
-            Funded by Happy Farm Business Accelerator with "KartoonArt" project,
-            passed workshops by Luxr, leadership, psychology, entrepreneurship,
-            marketing workshops. According to the result of the progress with
-            the project were selected for internship to the USA.
+            Start-up developed platform for animated publications on Newsstand
+            iOS (web and mobile app prototypes). We were alumni of Happy Farm
+            business accelerator Cycle 2, was selected for internship in the
+            USA, took part in GTF and got to the top 10 finalists, took part in
+            Venture Summit 2013 in Kyiv. In this start-up project I was
+            responsible for:
+            <ul>
+              <li>
+                Research of potential competitors and their products in
+                animation area
+              </li>
+              <li>
+                Collaboration with potential users to discover and deliver the
+                best solution to the market presented by the product (using
+                social network such as Twitter, Facebook, forums for animators,
+                2D/3D artists)
+              </li>
+              <li>
+                Creation of logo, illustrations, presentations, web and mobile
+                app design mirroring company brand style
+              </li>
+              <li>
+                Developing creative advertising content such as business cards,
+                flyers, posters, t-shorts, cups and etc.
+              </li>
+            </ul>
           </p>
         </VerticalTimelineElement>
 
@@ -206,13 +258,13 @@ function Experience() {
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">
-            Kiev University of Culture
-          </h3>
+          <h3 className="vertical-timeline-element-title">Student</h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Student</h4>
+          <h4 className="vertical-timeline-element-subtitle">
+            University of Culture, Kiev
+          </h4>
 
-          <p> Bachelors of Interior and Exterior design.</p>
+          <p> Bachelors of Interior and Exterior design</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -221,13 +273,13 @@ function Experience() {
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">
+          <h3 className="vertical-timeline-element-title">Student</h3>
+
+          <h4 className="vertical-timeline-element-subtitle">
             Ukrainian Academy of Banking, Sumy
-          </h3>
+          </h4>
 
-          <h4 className="vertical-timeline-element-subtitle">Student</h4>
-
-          <p> Bachelors of International Economics.</p>
+          <p> Bachelors of International Economics</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -236,13 +288,13 @@ function Experience() {
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">
-            Sumy Higher College of Art and Culture
-          </h3>
+          <h3 className="vertical-timeline-element-title">Student</h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Student</h4>
+          <h4 className="vertical-timeline-element-subtitle">
+            Higher College of Art and Culture, Sumy
+          </h4>
 
-          <p> Teacher of Fine and Applied Arts.</p>
+          <p> Teacher of Fine and Applied Arts</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
