@@ -17,9 +17,13 @@ function Skills() {
           <li>JavaScript, React.js,</li>
           <li>
             HTML5, CSS3 (Grid, Flexbox, Nested by BEM), CSS frameworks
-            (Bootstrap, Tailwind CSS), CSS preprocessors (SASS),
+            (Bootstrap, Tailwind CSS), CSS preprocessors (SASS, LESS),
           </li>
-          <li>UI/UX (Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma).</li>
+          <li>
+            Adobe Creative Suite (Adobe Photoshop, Adobe Illustrator, Adobe XD,
+            Adobe Flash Player), Figma, Sketch,
+          </li>
+          <li>Microsoft Office programs (Excel, Word, PowerPoint), Keynote.</li>
         </ul>
       </div>
 

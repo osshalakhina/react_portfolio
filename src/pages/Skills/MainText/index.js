@@ -22,7 +22,7 @@ const MainText = () => {
       <h1>
         <span>I am</span> Olga Kosov
       </h1>
-      <p>Front End Developer</p>
+      <p>Front End Developer & Designer</p>
       <div className="prompt">
         <a href="https://www.linkedin.com/in/osshalakhina/">
           <LinkedInIcon />
