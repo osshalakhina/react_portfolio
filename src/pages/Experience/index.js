@@ -84,12 +84,37 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             Muso Grazioso kennel
           </h4>
-          <p>
-            Responsible for international sales and collaboration with
-            customers, logistics and organization of delivery to various
-            countries, photo and video processing, developed site (used
-            Elementor, HTML5 and CSS3), brand elements etc.
-          </p>
+          <ul>
+            <li>
+              Was responsible for sales and collaboration with customers,
+              considering factors such as cost, transportation requirements and
+              desired uses{" "}
+            </li>
+            <li>
+              Organized dogs delivery to customers locations to various
+              countries (150+ puppies and adult dogs)
+            </li>
+            <li>
+              Created brand elements for kennel (logo, website design),
+              developed site (used Elementor, HTML5 and CSS3)
+            </li>
+            <li>
+              Secured long-term accounts, managing sales presentations to
+              promote kennel and brand benefits (worked with social networks
+              such as Facebook and Instagram, with emails, upgrated data on
+              kennel web site, work with special sites for sale of dogs)
+            </li>
+            <li>
+              Provided excellent service and attention to customers when
+              face-to-face or through phone conversations, by internet
+              (including photo and video processing of puppies since birth and
+              till their travel to new home)
+            </li>
+            <li>
+              Improved customer satisfaction by finding creative solutions to
+              problems
+            </li>
+          </ul>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
