@@ -9,6 +9,10 @@
   margin-top: 20px;
   overflow: hidden;
 
+  a {
+    text-decoration: none;
+  }
+
   h1 {
     color: #3e497a;
     margin-top: 18px;
@@ -18,8 +22,8 @@
 
   h2 {
     color: #3e497a;
-    margin-top: 15px;
-    font-size: 15px;
+    margin-top: 5px;
+    font-size: 12px;
   }
 
   .projectTitle {
@@ -48,8 +52,6 @@
   text-align: center;
 
   :hover {
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
-    transition: 0.3s ease-in;
     cursor: pointer;
   }
 
@@ -65,6 +67,28 @@
 
   h1 {
     font-size: 25px;
+  }
+  .description {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr;
+  }
+
+  .descriptionInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  svg {
+    font-size: 60px;
+    color: #3e497a;
+    margin: auto;
+    padding: 20px 20px 0 0;
+  }
+
+  svg:hover {
+    color: #e9d35b;
   }
 }
 
@@ -91,7 +115,13 @@
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 415px) {
+  .projects {
+    h1 {
+      font-size: 25px;
+    }
+  }
+
   .projectList {
     width: 100%;
   }

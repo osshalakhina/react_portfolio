@@ -42,6 +42,7 @@
     color: #21325e;
     margin-left: 20px;
     margin-top: 30px;
+    line-height: 35px;
   }
 }
 
@@ -75,6 +76,7 @@
   p {
     margin-top: 10px;
     font-size: 25px;
+    line-height: 35px;
     color: #21325e;
   }
 }
@@ -102,7 +104,7 @@
   }
 }
 
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1430px) {
   .main {
     height: 420px;
   }
@@ -186,7 +188,7 @@
   }
 }
 
-@media only screen and (max-width: 645px) {
+@media only screen and (max-width: 730px) {
   .main {
     display: flex;
     flex-direction: column;

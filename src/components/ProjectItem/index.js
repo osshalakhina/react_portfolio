@@ -1,18 +1,22 @@
 import React from "react";
-import { useHistory } from "react-router-dom";
+import GitHubIcon from "@material-ui/icons/GitHub";
 
-function ProjectItem({ image, name, description, id }) {
-  const { push } = useHistory();
+function ProjectItem({ image, name, description, demo, link, id }) {
   return (
-    <div
-      className="projectItem"
-      onClick={() => {
-        push("/project/" + id);
-      }}
-    >
-      <div style={{ backgroundImage: `url(${image})` }} className="bgImage" />
-      <h1> {name} </h1>
-      <h2> {description} </h2>
+    <div className="projectItem">
+      <a href={demo}>
+        <div style={{ backgroundImage: `url(${image})` }} className="bgImage" />
+        <div className="description">
+          {" "}
+          <div className="descriptionInfo">
+            <h1> {name} </h1>
+            <h2> {description} </h2>
+          </div>
+          <a href={link}>
+            <GitHubIcon />
+          </a>
+        </div>
+      </a>
     </div>
   );
 }

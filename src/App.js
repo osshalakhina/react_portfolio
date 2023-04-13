@@ -5,7 +5,6 @@ import Projects from "./pages/Projects";
 import Experience from "./pages/Experience";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import ProjectDisplay from "../src/pages/Projects/ProjectDisplay/index.js";
 
 function App() {
   return (
@@ -15,7 +14,6 @@ function App() {
         <Switch>
           <Route path="/" exact component={Skills} />
           <Route path="/projects" component={Projects} />
-          <Route path="/project/:id" component={ProjectDisplay} />
           <Route path="/experience" exact component={Experience} />
         </Switch>
         <Footer />

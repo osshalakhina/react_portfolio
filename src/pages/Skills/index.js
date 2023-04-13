@@ -16,8 +16,9 @@ function Skills() {
         <ul className="skillsBlock">
           <li>JavaScript, React.js,</li>
           <li>
-            HTML5, CSS3 (Grid, Flexbox, Nested by BEM), CSS frameworks
-            (Bootstrap, Tailwind CSS), CSS preprocessors (SASS, LESS),
+            HTML5, CSS3 (Grid, Flexbox, animation, Nested by BEM), CSS
+            frameworks (Bootstrap, Tailwind CSS), CSS preprocessors (SASS,
+            LESS),
           </li>
           <li>
             Adobe Creative Suite (Adobe Photoshop, Adobe Illustrator, Adobe XD,
@@ -32,11 +33,9 @@ function Skills() {
         <img src={ninja} alt="ninja" className="ninja" />
         <div className="text">
           <p>
-            I am ready to go through and solve any difficulties encountered on
-            the development path,
-          </p>
-          <p>
-            which would ultimately give you a high-quality and flexible product!
+            I am creative and always eager to learn, specialize and develop
+            myself as much as possible. When I am facing a goal I will invest
+            the best to achieve it.
           </p>
         </div>
       </div>
