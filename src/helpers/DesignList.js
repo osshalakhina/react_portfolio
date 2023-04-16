@@ -1,6 +1,7 @@
 import Proj9 from "../assets/projects/proj9.jpg";
 import Proj10 from "../assets/projects/proj10.jpg";
 import Proj11 from "../assets/projects/proj11.jpg";
+import Proj12 from "../assets/projects/proj12.jpg";
 
 export const DesignList = [
   {
@@ -20,5 +21,11 @@ export const DesignList = [
     description: "[ Illustrations and designs ]",
     image: Proj11,
     demo: "https://osshalakhina.github.io/KartoonArt/",
+  },
+  {
+    name: "KartoonArt (new)",
+    description: "[ Illustrations and designs ]",
+    image: Proj12,
+    demo: "https://osshalakhina.github.io/KartoonArt-new/",
   },
 ];
