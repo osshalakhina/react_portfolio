@@ -8,7 +8,7 @@ import Proj8 from "../assets/projects/proj8.jpg";
 export const ProjectList = [
   {
     name: "Portfolio (new)",
-    description: "[ React.js, HTML5, SASS ]",
+    description: "[ React.js, JavaScript, HTML5, SASS ]",
     image: Proj7,
     link: "https://github.com/osshalakhina/react_portfolio",
     demo: "https://kosov.site/",

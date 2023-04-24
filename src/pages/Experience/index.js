@@ -79,7 +79,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Co-owner and co-founder
+            Co-owner, Marketing Manager & Graphic Designer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Muso Grazioso kennel
@@ -195,7 +195,9 @@ function Experience() {
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Designer</h3>
+          <h3 className="vertical-timeline-element-title">
+            Web & Graphic Designer
+          </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Freelance (Datawiz.io, Pro Max Group, Inhacking, :Printl, School
             Angels, Indigo and etc..)
@@ -244,7 +246,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Co-owner and co-founder
+            Co-founder, Graphic Designer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Kartoon Art, Inc

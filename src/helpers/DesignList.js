@@ -2,6 +2,7 @@ import Proj9 from "../assets/projects/proj9.jpg";
 import Proj10 from "../assets/projects/proj10.jpg";
 import Proj11 from "../assets/projects/proj11.jpg";
 import Proj12 from "../assets/projects/proj12.jpg";
+import Proj13 from "../assets/projects/proj13.jpg";
 
 export const DesignList = [
   {
@@ -27,5 +28,12 @@ export const DesignList = [
     description: "[ Illustrations and designs ]",
     image: Proj12,
     demo: "https://osshalakhina.github.io/KartoonArt-new/",
+  },
+
+  {
+    name: "Muso Grazioso kennel",
+    description: "[ Illustrations and designs ]",
+    image: Proj13,
+    demo: "https://osshalakhina.github.io/MusoGrazioso/",
   },
 ];
