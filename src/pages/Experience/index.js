@@ -196,7 +196,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Web & Graphic Designer
+            Web & Graphic Designer, Illustrator
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Freelance (Datawiz.io, Pro Max Group, Inhacking, :Printl, School
@@ -204,7 +204,10 @@ function Experience() {
           </h4>
           <p>
             <ul>
-              <li>Prepared illustrations and rough sketches of material</li>
+              <li>
+                Prepared illustrations and rough sketches of material, 2D
+                animations
+              </li>
               <li>
                 Developed graphics and layouts for product illustrations, logos,
                 presentation design and websites mirroring company brand style
@@ -246,7 +249,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Co-founder, Graphic Designer
+            Co-founder, Graphic Designer & Illustrator
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Kartoon Art, Inc
