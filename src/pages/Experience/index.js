@@ -156,7 +156,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Web Programming intern
+            Web Programming intern & Graphic Designer
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">Shakuf media</h4>
