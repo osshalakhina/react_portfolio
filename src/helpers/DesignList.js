@@ -4,6 +4,8 @@ import Proj11 from "../assets/projects/proj11.jpg";
 import Proj12 from "../assets/projects/proj12.jpg";
 import Proj13 from "../assets/projects/proj13.jpg";
 import Proj14 from "../assets/projects/proj14.jpg";
+import Proj15 from "../assets/projects/proj15.jpg";
+import Proj16 from "../assets/projects/proj16.jpg";
 
 export const DesignList = [
   {
@@ -41,5 +43,17 @@ export const DesignList = [
     description: "[ Illustrations ]",
     image: Proj14,
     demo: "https://osshalakhina.github.io/SchoolAngels/",
+  },
+  {
+    name: "Datawiz.io",
+    description: "[ Designs ]",
+    image: Proj15,
+    demo: "https://osshalakhina.github.io/Datawiz/",
+  },
+  {
+    name: "Indigo",
+    description: "[ Character for animation ]",
+    image: Proj16,
+    demo: "https://osshalakhina.github.io/indigo/",
   },
 ];
