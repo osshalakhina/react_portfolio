@@ -13,7 +13,7 @@ import Proj20 from "../assets/projects/proj20.jpg";
 import Proj21 from "../assets/projects/proj21.jpg";
 import Proj22 from "../assets/projects/proj22.jpg";
 import Proj23 from "../assets/projects/proj23.jpg";
-import Proj24 from "../assets/projects/pro24.jpg";
+import Proj24 from "../assets/projects/proj24.jpg";
 import Proj25 from "../assets/projects/proj25.jpg";
 import Proj26 from "../assets/projects/proj26.jpg";
 
