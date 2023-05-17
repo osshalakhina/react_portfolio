@@ -16,6 +16,8 @@ import Proj23 from "../assets/projects/proj23.jpg";
 import Proj24 from "../assets/projects/proj24.jpg";
 import Proj25 from "../assets/projects/proj25.jpg";
 import Proj26 from "../assets/projects/proj26.jpg";
+import Proj27 from "../assets/projects/proj27.jpg";
+import Proj31 from "../assets/projects/proj31.jpg";
 
 export const DesignList = [
   {
@@ -125,5 +127,17 @@ export const DesignList = [
     description: "[ illustrations ]",
     image: Proj26,
     demo: "https://osshalakhina.github.io/Portraits/",
+  },
+  {
+    name: "Character",
+    description: "[ illustrations ]",
+    image: Proj27,
+    demo: "https://osshalakhina.github.io/Character/",
+  },
+  {
+    name: "Best Coffee Machine",
+    description: "[ ui/ux ]",
+    image: Proj31,
+    demo: "https://osshalakhina.github.io/uiux/",
   },
 ];
