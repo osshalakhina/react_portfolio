@@ -2,7 +2,7 @@
 
 ### About project:
 
-It is portfolio site with examples of my work in programming which was done on React.
+It is portfolio site with examples of my works in programming, illustration and design, hobby which was done on React.
 
 ### Tehnology: 
 
