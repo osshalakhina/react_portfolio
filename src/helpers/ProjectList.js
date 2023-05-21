@@ -14,21 +14,21 @@ export const ProjectList = [
     demo: "https://kosov.site/",
   },
 
-  {
-    name: "Portfolio",
-    description: "[ React.js, HTML5, Tailwind CSS ]",
-    image: Proj4,
-    link: "https://github.com/osshalakhina/my_portfolio",
-    demo: "https://shalakhina.com/",
-  },
+  // {
+  //   name: "Portfolio",
+  //   description: "[ React.js, HTML5, Tailwind CSS ]",
+  //   image: Proj4,
+  //   link: "https://github.com/osshalakhina/my_portfolio",
+  //   demo: "https://shalakhina.com/",
+  // },
 
-  {
-    name: "FeatureHub.Ai",
-    description: "[ React.js, JavaScript, HTML5, SASS ]",
-    image: Proj8,
-    link: "https://beta.featurehub.ai/",
-    demo: "https://beta.featurehub.ai/",
-  },
+  // {
+  //   name: "FeatureHub.Ai",
+  //   description: "[ React.js, JavaScript, HTML5, SASS ]",
+  //   image: Proj8,
+  //   link: "https://beta.featurehub.ai/",
+  //   demo: "https://beta.featurehub.ai/",
+  // },
 
   {
     name: "Mesto",
@@ -44,11 +44,11 @@ export const ProjectList = [
     link: "https://github.com/osshalakhina/russian-travel?",
     demo: "https://osshalakhina.github.io/russian-travel/?",
   },
-  {
-    name: "How To Learn",
-    description: "[ HTML5, CSS3 ]",
-    image: Proj3,
-    link: "https://github.com/osshalakhina/how-to-learn?",
-    demo: "https://osshalakhina.github.io/how-to-learn/",
-  },
+  // {
+  //   name: "How To Learn",
+  //   description: "[ HTML5, CSS3 ]",
+  //   image: Proj3,
+  //   link: "https://github.com/osshalakhina/how-to-learn?",
+  //   demo: "https://osshalakhina.github.io/how-to-learn/",
+  // },
 ];
