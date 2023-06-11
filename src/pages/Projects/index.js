@@ -41,7 +41,7 @@ function Projects() {
           );
         })}
       </div>
-      <h1> Hobby </h1>
+      {/* <h1> Hobby </h1>
       <div className="projectList">
         {HobbyList.map((project, idx) => {
           return (
@@ -55,7 +55,7 @@ function Projects() {
             />
           );
         })}
-      </div>
+      </div> */}
     </div>
   );
 }
