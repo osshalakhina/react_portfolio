@@ -42,7 +42,7 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2022"
+          date="2022-2023"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<SchoolIcon />}
         >
@@ -67,6 +67,10 @@ function Experience() {
               <li>
                 "The Complete JavaScript Course: From Zero to Expert!"" by Jonas
                 Schmedtmann (Web Developer, Designer, and Teacher)
+              </li>
+              <li>
+                "The Complete 2023 Sofware Testing Bootcamp" by Tarek Roshdy (QA
+                Engineer) and Nezam Academy
               </li>
             </ul>
           </p>
