@@ -5,7 +5,7 @@ import Proj29 from "../assets/projects/proj29.jpg";
 export const HobbyList = [
   {
     name: "Youth Fashion Laboratory",
-    description: "[ clothes design and model career ]",
+    description: "[ clothes design ]",
     image: Proj28,
     demo: "https://osshalakhina.github.io/SchoolOfModels/",
   },
