@@ -15,7 +15,7 @@ function Skills() {
         <div className="skills">Skills</div>
         <ul className="skillsBlock">
           <li className="skillsTitle">
-            Around 1 year of hands-on experience using tools such as:
+            1+ year of hands-on experience using tools such as:
           </li>
           <li>
             JavaScript, React.js, HTML5, CSS3 (Grid, Flexbox, Nested by BEM),
@@ -33,7 +33,7 @@ function Skills() {
             Adobe Creative Suite (Adobe Photoshop, Adobe Illustrator, Adobe XD,
             Adobe Flash Player), Figma, Sketch.
           </li>
-          <li className="skillsTitle">Freely work:</li>
+          <li className="skillsTitle">Freely work with:</li>
           <li>
             Microsoft Office programs (Excel, Word, PowerPoint), Pages, Keynote.
           </li>
