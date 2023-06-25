@@ -31,6 +31,10 @@ function Experience() {
                 HTML5, SASS{" "}
               </li>
               <li>
+                Wrote test plans, test cases, defect reports, test progress &
+                summary reports
+              </li>
+              <li>
                 Analyzed UI/UX design for responsive layout to improve usability{" "}
               </li>
               <li>
@@ -203,8 +207,8 @@ function Experience() {
             Web & Graphic Designer, Illustrator
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Freelance (Datawiz.io, Pro Max Group, Inhacking, :Printl, School
-            Angels, Indigo and etc..)
+            Freelance (Manning Publications Co., Datawiz.io, Pro Max Group,
+            Inhacking, :Printl, School Angels, Indigo and etc..)
           </h4>
           <p>
             <ul>
@@ -227,22 +231,6 @@ function Experience() {
                 audience/market
               </li>
             </ul>
-          </p>
-        </VerticalTimelineElement>
-
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="2015"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">Illustrator</h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Manning Publications Co.
-          </h4>
-          <p>
-            Created illustrations with Go-Gopher for book «Get Programming with
-            Go» by Nathan Youngman, Roger Pepper
           </p>
         </VerticalTimelineElement>
 
